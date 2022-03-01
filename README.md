@@ -4,6 +4,9 @@ This code provides simulations of the radio sky at 40-120 MHz. The gain pattern 
 
 Requirements: pylab, healpy, astropy, pandas
 
+The updated file for the Dynamic Spectra for the Initial, no wings and wings antennas is:
+    DS+G.ipynb
+
 ## Text files
 
     DS f(40,110) alpha=2,5.txt
